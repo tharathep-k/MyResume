@@ -1,0 +1,52 @@
+body {
+    font-family: 'Alkatra', cursive;
+    font-family: 'Kanit', sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.fa-brands {
+    color: red;
+    font-size: 50px;
+}
+
+.material-icons-outlined {
+    color: cyan;
+    font-size: 34px;
+}
+
+.titlebox {
+    border: 2px solid black;
+    background-image: url(https://cdn.pixabay.com/photo/2013/10/27/17/14/snowfall-201496_1280.jpg);
+    background-size: cover;
+    background-position: 0 70%;
+    background-color: silver;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.worktable th {
+    background-color: aquamarine;
+}
+
+/* contact page */
+
+.contact {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+.info {
+    margin-left: 0.7cm;
+}
+.button {
+    margin-left: 0.7cm;
+    margin-top: 0.3cm;
+    margin-bottom: 0.4cm;
+}
